@@ -24,9 +24,10 @@ def circulate( ):
 ## Output:
 
 
+![image](https://github.com/22002102/Circulate-the-values-of-N-variables/assets/119091638/20e30735-5da7-413b-875b-42fc8f3aa9e9)
 
 
-![PY EX ](https://user-images.githubusercontent.com/119091638/227914710-ecb1fde3-07f0-42fc-8d9d-6feab93b8446.png)
+
 
 ## Result:
 Thus the Circulate-the-values-of-N-variables are successfully executed
