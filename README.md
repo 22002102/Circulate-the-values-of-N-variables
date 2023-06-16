@@ -17,19 +17,17 @@ Anaconda - Python 3.7
 
 ## Program:
 ```
-#Program to circulate N values.
-#Developed by: SANJAY S
-#RegisterNumber:212222230132
-def circulate():
+Developed by: SANJAY S
+RegisterNumber:212222230132
+def circulate( ):
     l=eval(input())
     n=int(input())
-    l=l[n:]+l[:n]
-    print("After circulating the values are:",l)
+print("After circulating the values are:", l[n: ]+l[ :n])
 ```
 ## Output:
 
 
-![image](https://github.com/22002102/Circulate-the-values-of-N-variables/assets/119091638/8348b700-a295-45c1-90de-1871685f1c4c)
+![image](https://github.com/22002102/Circulate-the-values-of-N-variables/assets/119091638/4bf0f2eb-0f17-47aa-a987-7ea7c4fec6ef)
 
 
 
